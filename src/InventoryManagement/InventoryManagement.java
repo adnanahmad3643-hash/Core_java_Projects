@@ -22,7 +22,7 @@ class Operation {
 
 }
 
-public class CrudOperation {
+public class InventoryManagement {
 	static HashMap<Integer, Operation> map = new HashMap<Integer, Operation>();
 	static Scanner sc = new Scanner(System.in);
 
