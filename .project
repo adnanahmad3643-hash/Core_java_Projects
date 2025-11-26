@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>HospitalManageMent</name>
+=======
+	<name>Projects</name>
+>>>>>>> 65705f647452b41aa34112e75d101a930e34c5df
 	<comment></comment>
 	<projects>
 	</projects>
@@ -10,6 +14,7 @@
 			<arguments>
 			</arguments>
 		</buildCommand>
+<<<<<<< HEAD
 		<buildCommand>
 			<name>org.eclipse.m2e.core.maven2Builder</name>
 			<arguments>
@@ -19,5 +24,10 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+=======
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+>>>>>>> 65705f647452b41aa34112e75d101a930e34c5df
 	</natures>
 </projectDescription>
